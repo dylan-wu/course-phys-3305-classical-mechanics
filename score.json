@@ -1,0 +1,87 @@
+[
+  {
+    "Name":"Midterm Exam",
+    "Weight":"32%",
+    "Score":"100",
+    "Date":"",
+    "Description":"Newton's Laws of Motion, Projectiles and Charged Particles, Momentum and Angular Momentum"
+  }, {
+    "Name":"Final Exam",
+    "Weight":"32%",
+    "Score":"100",
+    "Date":"",
+    "Description":"Oscillations, calculus of variations, lagrangian mechanics, two-body central-force problems, mechanics in non-inertial frames, rotational motion of rigid bodies, coupled oscillators and normal modes"
+  }, {
+    "Name":"Homework 1",
+    "Weight":"3%",
+    "Score":"100",
+    "Date":"",
+    "Description":""
+  }, {
+    "Name":"Homework 2",
+    "Weight":"3%",
+    "Score":"100",
+    "Date":"",
+    "Description":""
+  }, {
+    "Name":"Homework 3",
+    "Weight":"3%",
+    "Score":"100",
+    "Date":"",
+    "Description":""
+  }, {
+    "Name":"Homework 4",
+    "Weight":"3%",
+    "Score":"100",
+    "Date":"",
+    "Description":""
+  }, {
+    "Name":"Homework 5",
+    "Weight":"3%",
+    "Score":"100",
+    "Date":"",
+    "Description":""
+  }, {
+    "Name":"Homework 6",
+    "Weight":"3%",
+    "Score":"100",
+    "Date":"",
+    "Description":""
+  }, {
+    "Name":"Homework 7",
+    "Weight":"3%",
+    "Score":"100",
+    "Date":"",
+    "Description":""
+  }, {
+    "Name":"Homework 8",
+    "Weight":"3%",
+    "Score":"100",
+    "Date":"",
+    "Description":""
+  }, {
+    "Name":"Homework 9",
+    "Weight":"3%",
+    "Score":"100",
+    "Date":"",
+    "Description":""
+  }, {
+    "Name":"Homework 10",
+    "Weight":"3%",
+    "Score":"100",
+    "Date":"",
+    "Description":""
+  }, {
+    "Name":"Homework 11",
+    "Weight":"3%",
+    "Score":"100",
+    "Date":"",
+    "Description":""
+  }, {
+    "Name":"Homework 12",
+    "Weight":"3%",
+    "Score":"100",
+    "Date":"",
+    "Description":""
+  },
+]
